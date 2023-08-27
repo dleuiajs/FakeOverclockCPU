@@ -1,0 +1,15 @@
+C:\Users\dleuiajs\git\OverclockCPU\bin\Debug\net7.0\OverclockCPU.exe
+C:\Users\dleuiajs\git\OverclockCPU\bin\Debug\net7.0\OverclockCPU.deps.json
+C:\Users\dleuiajs\git\OverclockCPU\bin\Debug\net7.0\OverclockCPU.runtimeconfig.json
+C:\Users\dleuiajs\git\OverclockCPU\bin\Debug\net7.0\OverclockCPU.dll
+C:\Users\dleuiajs\git\OverclockCPU\bin\Debug\net7.0\OverclockCPU.pdb
+C:\Users\dleuiajs\git\OverclockCPU\obj\Debug\net7.0\OverclockCPU.csproj.AssemblyReference.cache
+C:\Users\dleuiajs\git\OverclockCPU\obj\Debug\net7.0\OverclockCPU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dleuiajs\git\OverclockCPU\obj\Debug\net7.0\OverclockCPU.AssemblyInfoInputs.cache
+C:\Users\dleuiajs\git\OverclockCPU\obj\Debug\net7.0\OverclockCPU.AssemblyInfo.cs
+C:\Users\dleuiajs\git\OverclockCPU\obj\Debug\net7.0\OverclockCPU.csproj.CoreCompileInputs.cache
+C:\Users\dleuiajs\git\OverclockCPU\obj\Debug\net7.0\OverclockCPU.dll
+C:\Users\dleuiajs\git\OverclockCPU\obj\Debug\net7.0\refint\OverclockCPU.dll
+C:\Users\dleuiajs\git\OverclockCPU\obj\Debug\net7.0\OverclockCPU.pdb
+C:\Users\dleuiajs\git\OverclockCPU\obj\Debug\net7.0\OverclockCPU.genruntimeconfig.cache
+C:\Users\dleuiajs\git\OverclockCPU\obj\Debug\net7.0\ref\OverclockCPU.dll
